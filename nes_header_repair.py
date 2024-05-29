@@ -16,7 +16,7 @@ START_PATH = '.'
 NES_20 = 1
 
 # Set to 1 to prevent altering any files
-TRIAL_RUN = 1
+TRIAL_RUN = 0
 
 # Set to 1 to enable moving all unrecognised roms to ../nes_unknown
 SORT_UNKNOWN = 1
